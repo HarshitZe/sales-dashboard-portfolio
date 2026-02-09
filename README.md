@@ -12,10 +12,10 @@ Transform raw e-commerce sales data into **actionable insights**:
 - Business recommendations
 
 ## 📊 Key Insights (From EDA)
-- **#TOP_CATEGORY_NAME** : #TOP_CATEGORY_SALES (e.g., Office Supplies: $479,437)
-- **#TOP_REGION_NAME** : #TOP_REGION_SALES (e.g., West: $725,976)
-- **Annual Growth #FIRST_YEAR–#LAST_YEAR** : #GROWTH_PERCENT (e.g., 2014–2018: +24.6%)
-- **#TOTAL_ORDERS** orders | **Average Order Value** : $#AVG_SALE (e.g., 9,994 | $230)
+• Top Category: Technology ($827,456)
+• Top Region: West ($710,220)
+• Annual Growth 2015–2018: +50.5%
+• Total Orders: 9,800 | Avg Sale: $231
 
 ## 🛠️ Tech Stack
 📊 Python (Pandas, Seaborn, Matplotlib) → EDA ✅
