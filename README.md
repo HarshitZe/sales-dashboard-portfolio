@@ -1,7 +1,7 @@
 # 🛒 Superstore Sales Analytics Dashboard
 
 **Data Analyst Portfolio Project #1**
-*HarshitZe | BBA Graduate | Uttarakhand, India | Python · SQL · Power BI | February 2026*
+*Harshit Arya| BBA Graduate | Uttarakhand, India | Python · SQL · Power BI | February 2026*
 
 [![Sales Insights](docs/sales_insights.png)](docs/sales_insights.png)
 
